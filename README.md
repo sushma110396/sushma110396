@@ -3,8 +3,6 @@
 **Software Engineer** · Java · Spring Boot · AWS · Microservices  
 📍 Redmond, WA &nbsp;|&nbsp; 🎓 M.S. Information Systems, Northeastern University &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect
 
----
-
 ## About Me
 
 Software engineer with 4+ years of experience building full-stack web applications. I've worked across the full software lifecycle — from designing microservices and optimizing databases to leading cloud migrations and mentoring teams. Currently exploring software engineering opportunities.
@@ -13,8 +11,6 @@ Software engineer with 4+ years of experience building full-stack web applicatio
 - ☁️ Led a full cloud migration from on-premises to **Pivotal Cloud Foundry**, cutting downtime by 50%
 - 🧪 Strong advocate for **TDD** — achieved ~80% code coverage on a previously untested codebase
 - 🤝 Open source contributor at **[Hack for LA / CivicTechJobs](https://github.com/hackforla/CivicTechJobs)**
-
----
 
 ## Tech Stack
 
@@ -38,8 +34,6 @@ Software engineer with 4+ years of experience building full-stack web applicatio
 **Testing**  
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A649?style=flat&logoColor=white)
-
----
 
 ## Featured Projects
 
@@ -70,14 +64,10 @@ Decentralized web app for minting, listing, and purchasing NFTs. Smart contracts
 | AEM insurance letter automation | Trained 14 engineers to independently build and maintain templates |
 | TDD with JUnit & Mockito | ~80% code coverage on a previously untested codebase |
 
----
-
 ## Certifications
 
 🏅 AWS Certified Solutions Architect  
 🏅 Oracle Certified Java Programmer
-
----
 
 ## Let's Connect
 
