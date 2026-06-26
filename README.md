@@ -9,7 +9,7 @@ Software engineer with 4+ years of experience building web applications, contrib
 - 🏦 Previously at **Wells Fargo** — built and maintained enterprise-scale backend systems serving ~2,000 users
 - ☁️ Led a full cloud migration from on-premises to **Pivotal Cloud Foundry**, cutting downtime by 50%
 - 🧪 Strong advocate for **TDD** — achieved ~80% code coverage on a previously untested codebase
-- 🤝 Open source contributor at **[Hack for LA / CivicTechJobs](https://github.com/hackforla)**
+- 🤝 Open source contributor at **[Hack for LA](https://github.com/hackforla)**
 
 ## Tech Stack
 **Languages**  
