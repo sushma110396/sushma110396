@@ -39,14 +39,12 @@ Software engineer with 4+ years of experience building full-stack web applicatio
 > Java · Spring Boot · React · AWS Textract · Lambda · S3 · Docker
 
 Built an AI-powered document processing pipeline that extracts and processes text from uploaded documents using AWS Textract. Containerized the backend and offloaded compute to AWS Lambda, reducing infrastructure costs by ~30%.
-
 ### 🖼️ [NFT Marketplace](https://github.com/sushma-hegde/nft-marketplace)
 > Solidity · ReactJS · IPFS · Ethereum (Sepolia testnet) · ERC20
 
 Decentralized web app for minting, listing, and purchasing NFTs. Smart contracts written in Solidity, with IPFS for decentralized metadata and image storage — cutting storage costs by 30% and improving retrieval speeds by 25%.
 
 ## Work Highlights
-
 **Software Engineer — Wells Fargo** *(Jul 2018 – Jun 2022)*
 
 | What I worked on | Impact |
