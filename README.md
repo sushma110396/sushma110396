@@ -9,7 +9,9 @@ Software engineer with 4+ years of experience building web applications, contrib
 🏦 Previously at **Wells Fargo** — built and maintained enterprise-scale backend systems serving ~2,000 users
 
 ☁️ Migrated the application from on-premises to **Pivotal Cloud Foundry**, cutting downtime by 50%
+
 ⚡ Optimized high-volume Oracle PL/SQL queries, reducing execution time by up to 60%
+
 🤝 Open source contributor at **[Hack for LA](https://github.com/hackforla)**
 
 ## Tech Stack
