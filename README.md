@@ -1,7 +1,6 @@
 # Hi, I'm Sushma 👋
-
-**Software Engineer** · Java · Spring Boot · AWS · Microservices  
-📍 Redmond, WA &nbsp;|&nbsp; 🎓 M.S. Information Systems, Northeastern University &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect
+**Software Engineer** · Java · Spring Boot · SQL · REST APIs · AWS 
+📍 Redmond, WA &nbsp; | &nbsp; 🎓 M.S. in Information Systems &nbsp; | &nbsp; ☁️ AWS Certified Solutions Architect
 
 ## About Me
 Software engineer with 4+ years of experience building web applications contributing across the entire software development lifecycle. I'm passionate about backend engineering and cloud technologies, and I enjoy learning by building projects and contributing to open source. Currently exploring software engineering opportunities.
