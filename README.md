@@ -1,5 +1,6 @@
 # Hi, I'm Sushma 👋
 **Software Engineer** · Java · Spring Boot · SQL · REST APIs · AWS 
+
 📍 Redmond, WA &nbsp; | &nbsp; 🎓 M.S. in Information Systems &nbsp; | &nbsp; ☁️ AWS Certified Solutions Architect
 
 ## About Me
