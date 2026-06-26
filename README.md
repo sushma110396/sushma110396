@@ -4,7 +4,6 @@
 📍 Redmond, WA &nbsp;|&nbsp; 🎓 M.S. Information Systems, Northeastern University &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect
 
 ## About Me
-
 Software engineer with 4+ years of experience building full-stack web applications. I've worked across the full software lifecycle — from designing microservices and optimizing databases to leading cloud migrations and mentoring teams. Currently exploring software engineering opportunities.
 
 - 🏦 Previously at **Wells Fargo** — built and maintained enterprise-scale backend systems serving ~2,000 users
@@ -13,7 +12,6 @@ Software engineer with 4+ years of experience building full-stack web applicatio
 - 🤝 Open source contributor at **[Hack for LA / CivicTechJobs](https://github.com/hackforla/CivicTechJobs)**
 
 ## Tech Stack
-
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -42,14 +40,10 @@ Software engineer with 4+ years of experience building full-stack web applicatio
 
 Built an AI-powered document processing pipeline that extracts and processes text from uploaded documents using AWS Textract. Containerized the backend and offloaded compute to AWS Lambda, reducing infrastructure costs by ~30%.
 
----
-
 ### 🖼️ [NFT Marketplace](https://github.com/sushma-hegde/nft-marketplace)
 > Solidity · ReactJS · IPFS · Ethereum (Sepolia testnet) · ERC20
 
 Decentralized web app for minting, listing, and purchasing NFTs. Smart contracts written in Solidity, with IPFS for decentralized metadata and image storage — cutting storage costs by 30% and improving retrieval speeds by 25%.
-
----
 
 ## Work Highlights
 
