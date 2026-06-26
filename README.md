@@ -4,7 +4,7 @@
 📍 Redmond, WA &nbsp;|&nbsp; 🎓 M.S. Information Systems, Northeastern University &nbsp;|&nbsp; ☁️ AWS Certified Solutions Architect
 
 ## About Me
-Software engineer with 4+ years of experience building full-stack web applications. I've worked across the full software lifecycle — from designing microservices and optimizing databases to leading cloud migrations and mentoring teams. Currently exploring software engineering opportunities.
+Software engineer with 4+ years of experience building web applications contributing across the entire software development lifecycle. I'm passionate about backend engineering and cloud technologies, and I enjoy learning by building projects and contributing to open source. Currently exploring software engineering opportunities.
 
 - 🏦 Previously at **Wells Fargo** — built and maintained enterprise-scale backend systems serving ~2,000 users
 - ☁️ Led a full cloud migration from on-premises to **Pivotal Cloud Foundry**, cutting downtime by 50%
